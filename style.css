@@ -31,4 +31,6 @@ li a:hover {
 table, th, td {
     border: 1px solid black;
 }
+img {
+ border-color: black;}
 
