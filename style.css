@@ -33,5 +33,7 @@ table, th, td {
 }
 img {
  border-width: 10px;
- border-color: black;}
+ border-color: black;
+ border-style: solid;
+}
 
